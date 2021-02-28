@@ -5,6 +5,7 @@ Learning Jasmine + Protractor
 If you are new to Protractor and Jasmine please:
 
 [prerequisites](http://www.protractortest.org/#/tutorial#prerequisites)
+
 [Setup](http://www.protractortest.org/#/tutorial#setup)
 
 To run the tests:
