@@ -18,8 +18,14 @@ protractor config.js
 ## Tests
 
 - First Test
+  /elements
+  Refer for a simple test enough to open the Jasmine and test the Setup.
+
 - Simple Get Title test
+  Just to test the Protactor functions
+
 - Multiple tests calculation
+  Making the real tests and first complete exercise
 
 The reference is the official documentation in:
 
