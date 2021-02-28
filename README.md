@@ -22,9 +22,11 @@ protractor config.js
   Refer for a simple test enough to open the Jasmine and test the Setup.
 
 - Simple Get Title test
+  /getTitle
   Just to test the Protactor functions
 
 - Multiple tests calculation
+  /multiple_scenarios
   Making the real tests and first complete exercise
 
 The reference is the official documentation in:
